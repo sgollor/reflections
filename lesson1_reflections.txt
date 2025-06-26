@@ -1,0 +1,40 @@
+lesson 1.4 reflection
+I wast not able to carryout the diff exercise
+the files where not availble for download
+
+lesson 1.8 reflection
+How could having easy access to the entire history 
+of a file make you a more efficient programmer in the long term?
+- I can compare changes
+- I can appreciate the amount of progress made
+
+lesson 1.15 manual commits reflections
+What do you think are the pros and cons of manually choosing 
+when to create a commit, like you do in Git, vs having versions
+automatically saved, like Google Docs does?
+*pros mannual commit
+- Commit when a manageble change is made
+- choose the size of changes made
+cons
+- might over work without commit
+- learning curve to understand committing commands
+
+lesson 1.18 multi-file commits reflections
+Why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others, 
+like Google Docs, treat each file separately?
+*Git is a more advance system that makes life easier for 
+developers. Saves time and effort
+
+lesson 1.22 Using Git to view history reflections
+How can you use the commands git log and git diff to view 
+the history of files?
+*enter to command e.g. git diff f19cb1b b0678b1 
+and compate the diff but I like
+git log --stat b0678b161fcf74467ed3a63110557e3d6229cfa6
+iy gives you stats of what was added or removed
+
+lesson 1.26 Reflect: Confidence from Version Control
+How might using version control make you more confident 
+to make changes that could break something?
+*Because Git got your backup

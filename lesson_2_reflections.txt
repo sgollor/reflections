@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+*You need a repository to setup git version control files. Enjoy the beneefits of version control
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+*Stage area is a middle area to managae files that need to be committed. It provides flexibility
+
